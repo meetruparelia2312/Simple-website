@@ -1,1 +1,1 @@
-slytherin Test Simple Website about inline course 
+slytherin Test Simple Website about online course 
